@@ -3,7 +3,7 @@
 - [Meeting](#meeting)
   - [Vorstellung](#vorstellung)
   - [Limits der Spieler](#limits-der-spieler)
-  - [Zum Dungeon / Zur Kampange](#zum-dungeon--zur-kampange)
+  - [Zum Dungeon // Zur Kampange](#zum-dungeon--zur-kampange)
     - [Character generation](#character-generation)
   - [Fragen von uns](#fragen-von-uns)
 
@@ -25,7 +25,7 @@ Philipp | |Cleric (Life)  Druid / Healer | Sklolss|
 - Fotos von Spinnen, ausschließlich visuelles Problem
 - Suizid // Depression, trigger warning geben
 
-## Zum Dungeon / Zur Kampange
+## Zum Dungeon // Zur Kampange
 
 - DC level der layer sind grob sortiert mit den jewaligen layern nochmal selber unterteilt.
 - Travel zwischen layern und oberfläche ist an diversen Stellen möglich.
