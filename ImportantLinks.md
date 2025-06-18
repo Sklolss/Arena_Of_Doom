@@ -4,7 +4,7 @@
 
 [Link zu Jan's DND-Beyond Campain](https://www.dndbeyond.com/campaigns/join/6716557679330634)
 
-Aurora Stuff komming soon.
+_Aurora Stuff comming soon._
 
 ## Map
 
