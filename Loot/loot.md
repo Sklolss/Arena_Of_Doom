@@ -10,7 +10,7 @@
 |Magic Ring|Level1|None|+1save req. attun.|
 |Kelch|Level1|50|-|
 |Ringe|Level1|20|-|
-|-|Level1|None|-|
+|Crystal|Level1|100|-|
 |-|Level1|None|-|
 |-|Level1|None|-|
 |-|Level1|None|-|
