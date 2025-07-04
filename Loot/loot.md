@@ -8,8 +8,8 @@
 |Stonehammer|Level1|None|Breaks on Nat1|
 |Double-bladed Scimitar|Level1|100gold|default|
 |Magic Ring|Level1|None|+1save req. attun.|
-|-|Level1|None|-|
-|-|Level1|None|-|
+|Kelch|Level1|50|-|
+|Ringe|Level1|20|-|
 |-|Level1|None|-|
 |-|Level1|None|-|
 |-|Level1|None|-|
