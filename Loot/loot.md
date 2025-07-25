@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description |
 |-|-|-|-|
-|Gold|Level 3, 911, Schlangentempel|100|Goldmünzen|
+|Gold|Verschiedene Orte|300|Goldmünzen|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|
 |Scroll chromatic poison orb|Level 3, 911, Schlangentempel|25|Spell-scroll|
 |Rations|Level3|None|4total|
@@ -16,8 +16,10 @@
 |Poison 1d12 |Level1|None|6x|
 |Herz des Löwen|Level1|None|1x burning hands dc12|
 |Herz der Ziege|Level1|None|1x thunderwave dc12|
+|4Silberringe|Level1|100|Loot|
+|Oil of Slipperyness|Level1|-|-|
+|Potion of Growth|Level1|-|-|
+|Potion of Healing|Level1|-|-|
+|Bag of tricks (grey)|Level1|-|Kann Tiere aus Beutel ziehen|
 |-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
-
 |-|-|-|-|
