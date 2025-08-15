@@ -15,14 +15,12 @@
 |Potion acid res|Level1|Level 3, 911, Schlangentempel|1x|-|
 |Poison 1d12 |Level1|None|6x|-|
 |Herz des Löwen|Level1|None|1x burning hands dc12|-|
-|Herz der Ziege|Level1|None|1x thunderwave dc12|-|
 |4Silberringe|Level1|100|Loot|-|
 |Oil of Slipperyness|Level1|-|-|-|
 |Potion of Growth|Level1|-|-|-|
-|Potion of Healing|Level1|-|2d4+2heal|Grizz|
-|Bag of tricks (grey)|Level1|-|Kann Tiere aus Beutel ziehen|-|
+|Bag of tricks (grey)|Level1|-|Kann Tiere aus Beutel ziehen|Mender|
 |Tropfen-Rubin|Level1|-|Für tür|-|
-|-|-|-|-|-|
+|Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
