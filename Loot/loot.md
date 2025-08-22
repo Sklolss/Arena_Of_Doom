@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|450|Goldmünzen|-|
+|Gold|Verschiedene Orte|554|Goldmünzen|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|-|
 |Scroll chromatic poison orb|Level 3, 911, Schlangentempel|25|Spell-scroll|-|
 |Rations|Level3|None|4total|-|
@@ -18,11 +18,10 @@
 |4Silberringe|Level1|100|Loot|-|
 |Oil of Slipperyness|Level1|-|-|-|
 |Potion of Growth|Level1|-|-|-|
-|Bag of tricks (grey)|Level1|-|Kann Tiere aus Beutel ziehen|Mender|
 |Tropfen-Rubin|Level1|-|Für tür|-|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
+|Scroll Magic Jar|Level1|-|Lvl6 spell, fehlerhafte anleitung drum herum|-|
+|Phiole-Phylakterie|Level1|-|Für Lich-Erschaffung|Maeril|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
